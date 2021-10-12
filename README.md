@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/66chenbiao" target="_blank">   
-  <img src="https://github-readme-stats.vercel.app/api?username=geekyouth&show_icons=true&theme=monokai&count_private=true" alt="个人概况">
+  <img src="https://github-readme-stats.vercel.app/api?username=66chenbiao&show_icons=true&theme=monokai&count_private=true" alt="个人概况">
 </a>
 
 <!-- -->
